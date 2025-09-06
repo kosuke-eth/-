@@ -7,7 +7,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'イルカクラブ',
   description: 'イルカクラブ',
-  generator: 'v0.app',
 }
 
 export default function RootLayout({
